@@ -13,11 +13,13 @@ pre {
 }
 </style>
 
+
+Research Fellow\
+[Korea Development Institute (KDI)](https://www.kdi.re.kr)\
+
 ### Contact 
 
-minhokim_at_kdi.re.kr\
-Research Fellow\
-Korea Development Institute(https://www.kdi.re.kr)\ 
+minhokim at kdi.re.kr\
 263, Namsejong-ro, Sejong-si, 30149, Korea\
 +82-44-550-4144\
 
@@ -28,13 +30,13 @@ Baruch College, City University of New York\
 
 [Korea Development Institute (KDI)](https://www.kdi.re.kr)
 
-- Fellow. Aug. 2019 - Present
+- Fellow, Aug. 2019 - Present
 - Director, Division of Public Investment Evaluation, [PIMAC](https://pimac.kdi.re.kr/main/main.jsp). Jul. 2020 - Jun. 2022 
-- Associate Fellow. Jul. 2014 - Dec. 2019
+- Associate Fellow, Jul. 2014 - Dec. 2019
 
 ### Education
 
-Washington University in St. Louis, Ph.D. in Economics, May 2014.\ 
+Washington University in St. Louis, Ph.D. in Economics, May 2014.\
 Yonsei University, B.A. in Economics, Feb. 2005.\
 
 ### Research Interests
@@ -48,25 +50,25 @@ Development and International Economics
 
 ### Publications
 
-1. International Trade and Directed Technical Change in the Developing Countries, *KDI Journal of Economic Policy*, 41(3), 2019. 
-1. Misallocation and manufacturing TFP in Korea, 1982-2007 (with Jiyoon Oh and [Yongseok Shin](https://sites.wustl.edu/yshin/)),” *Federal Reserve Bank of St. Louis Review*, Second Quarter 2017. 
-1. Aggregate Productivity Growth in Korean Manufacturing: The Role of Young Plants, *KDI Journal of Economic Policy*, 39(4): 1–23, 2017. 
+1. [International Trade and Directed Technical Change in the Developing Countries](https://doi.org/10.23895/kdijep.2019.41.3.77), *KDI Journal of Economic Policy*, 41(3), 2019. 
+1. [Misallocation and manufacturing TFP in Korea, 1982-2007](https://files.stlouisfed.org/research/publications/review/2017-04-12//misallocation-and-manufacturing-tfp-in-korea-1982-2007.pdf) (with Jiyoon Oh and [Yongseok Shin](https://sites.wustl.edu/yshin/)),” *Federal Reserve Bank of St. Louis Review*, Second Quarter 2017. 
+1. [Aggregate Productivity Growth in Korean Manufacturing: The Role of Young Plants](https://doi.org/10.23895/kdijep.2017.39.4.1), *KDI Journal of Economic Policy*, 39(4): 1–23, 2017. 
 1. The Influence of School Quality on Housing Prices in Korea (with Sunku Hahn and Tae-Hwan Kim), *Applied Economics*, 44(8), 2012.
 
 ### Working Papers  
-1. [The Plant-Level View of an Industrial Policy: The Korean Heavy Industry Drive of 1973](https://drive.google.com/file/d/1IPKVyvhZN_kg1UnugdSaRLURtatZX3kY/view) (with [Munseob Lee](https://sites.google.com/site/munseob) and [Yongseok Shin](https://sites.wustl.edu/yshin/)) [Article in VoxEU](https://cepr.org/voxeu/columns/plant-level-view-industrial-policy-korean-heavy-industry-drive-1973) [Article in NBER Digest](https://www.nber.org/digest/202111/south-koreas-industrial-policy-growth-inefficiency)
-1. [How Smart Is ‘Smart Factory’?: Drivers and Effects of Factory Smartization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934026) (with [Sunghoon Chung](https://sites.google.com/view/schung)
+1. [The Plant-Level View of an Industrial Policy: The Korean Heavy Industry Drive of 1973](https://drive.google.com/file/d/1IPKVyvhZN_kg1UnugdSaRLURtatZX3kY/view) (with [Munseob Lee](https://sites.google.com/site/munseob) and [Yongseok Shin](https://sites.wustl.edu/yshin/)) [[Article in VoxEU]](https://cepr.org/voxeu/columns/plant-level-view-industrial-policy-korean-heavy-industry-drive-1973) [[Article in NBER Digest]](https://www.nber.org/digest/202111/south-koreas-industrial-policy-growth-inefficiency)
+1. [How Smart Is ‘Smart Factory’?: Drivers and Effects of Factory Smartization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934026) (with [Sunghoon Chung](https://sites.google.com/view/schung))
 
 
 ### Policy Papers 
-1. [중소기업 적합업종제도의 경제적 효과와 정책방향(The economic effects of the Reservation Policy for SMEs and policy implications)](https://www.kdi.re.kr/research/forumView?pub_no=17621), *KDI Policy Forum* No. 289(2022-04), 2022 (in Korean). [Youtube](https://youtu.be/qVxhJogB_uM)
+1. [중소기업 적합업종제도의 경제적 효과와 정책방향(The economic effects of the Reservation Policy for SMEs and policy implications)](https://www.kdi.re.kr/research/forumView?pub_no=17621), *KDI Policy Forum* No. 289(2022-04), 2022 (in Korean). [[Youtube]](https://youtu.be/qVxhJogB_uM)
 1. [중소기업 지원기준의 개선방안에 관한 연구: 중소기업 정의와 적합업종을 중심으로 (Designing the Criteria on the SME Support Policy: Focusing on the Definition of SME and Small-Scale Reservation Policy)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182251), *KDI Research Monograph*, 2022-01, 2022 (in Korean)
-1. [AI 기술, 지원정책의 효과를 높일 수 있을까? (Can Artificial Intelligence Improve the Effectiveness of Government Support Policies?)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181025), *KDI Policy Forum*, No. 288(2022-03), 2022 (in Korean).[English Ver.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181019) [Youtube](https://youtu.be/k-MRWo9slqM)
-1. [Smart  Factory: Economic Impacts and Policy Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491557) (with [Sunghoon Chung](https://sites.google.com/view/schung) and Changkeun Lee), *KDI Research Monograph*, 2019-01, 2019 (in Korean)  
-1. [공장의 스마트화를 위한 스마트한 정책방안(Smart Policies for Smart Factories)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601470), *KDI FOCUS*, No. 97, 2020 (in Korean). [English Ver.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601473) [Youtube](https://youtu.be/rk-WLA2FQ5Q)
-1. 지식자본과 기업의 생산성(Knowledge Capital and Firm Productivity), In [*Job Creation Strategy in an Knowledge-based Economy*](https://ssrn.com/abstract=4043239), *KDI Research Monograph*, 2019-12, 2019 (in Korean)  
+1. [AI 기술, 지원정책의 효과를 높일 수 있을까? (Can Artificial Intelligence Improve the Effectiveness of Government Support Policies?)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181025), *KDI Policy Forum*, No. 288(2022-03), 2022 (in Korean).[[English Ver.]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181019) [[Youtube]](https://youtu.be/k-MRWo9slqM)
+1. [Smart  Factory: Economic Impacts and Policy Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491557) (with [Sunghoon Chung](https://sites.google.com/view/schung) and [Changkeun Lee](https://sites.google.com/site/cklecon/)), *KDI Research Monograph*, 2019-01, 2019 (in Korean)  
+1. [공장의 스마트화를 위한 스마트한 정책방안(Smart Policies for Smart Factories)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601470) (with [Sunghoon Chung](https://sites.google.com/view/schung) and [Changkeun Lee](https://sites.google.com/site/cklecon/)), *KDI FOCUS*, No. 97, 2020 (in Korean). [[English Ver.]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601473) [[Youtube]](https://youtu.be/rk-WLA2FQ5Q)
+1. 지식자본과 기업의 생산성(Knowledge Capital and Firm Productivity), In [*Job Creation Strategy in an Knowledge-based Economy*](https://ssrn.com/abstract=4043239), Kyungsoo Choi Eds, *KDI Research Monograph*, 2019-12, 2019 (in Korean)  
 1. [서비스산업 외국인투자기업의 국내 현황과 경제적 효과 (Foreign-invested Firms in the Korean Service Industry: Current Status and Economic Effects)](https://ssrn.com/abstract=3740446) (with [Sunghoon Chung](https://sites.google.com/view/schung)), *KDI Policy Study* 2019-16, 2019 (in Korean) 
-1. [제조업 신생기업의 성장동력 역할 감소와 시사점 (Diminishing Role of Young Manufacturing Plants as Drivers of Growth)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3239343), *KDI FOCUS* No. 92, 2018 (in Korean).  [Youtube](https://youtu.be/gnwH10kd7LM)
+1. [제조업 신생기업의 성장동력 역할 감소와 시사점 (Diminishing Role of Young Manufacturing Plants as Drivers of Growth)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3239343), *KDI FOCUS* No. 92, 2018 (in Korean).  [[Youtube]](https://youtu.be/gnwH10kd7LM)
 1. [자원분배와 생산성: 한국 제조업의 역동성과 시사점(Productivity Growth in Korean Manufacturing Industries: The Role of Young Plants vs. Small Plants)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3230518), *KDI Policy Study* 2017-05, 2017 (in Korean).
 1. 창업벤처 지원정책의 성과관리체계 개선방안 (A Guide to Effectiveness Evaluation Framework on Korean Entrepreneurship Policy), In [*Improving the Performance Management System of Budgetary Programs: Focusing on In-depth Evaluation*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3337256), Jaejoon Lee Eds, *KDI Research Monograph* 2017-08, 2017 (in Korean). 
 1. 한·중 교역 확대가 한국 제조업에 미친 영향: 총요소생산성을 중심으로(China’s  Impact on Productivity Growth in Korean Manufacturing), In [*Structural Changes of the Chinese Economy and New Opportunities for Korea(Vol.1)*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2868820), Kyungsoo Choi Eds, *KDI Research Monograph* 2015-09, 2015 (in Korean). 
@@ -118,12 +120,8 @@ Development and International Economics
 * Altwell Mincho Scholar, Korea, 2001-2005
 * High Honors (Magna cum laude), Yonsei University, Korea, 2005
 
-
-```{r, echo=FALSE}
-htmltools::includeHTML("analytics.html")
-```
-
-<!--### Miscellaneous
+<!--
+### Miscellaneous
 
 - [Google Scholar profile](https://scholar.google.com/citations?user=JDDf_qMAAAAJ&hl=en)
 - [Links](links.html) -->
