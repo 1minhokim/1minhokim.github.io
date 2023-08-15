@@ -14,7 +14,7 @@ pre {
 </style>
 
 
-Research Fellow\
+Fellow\
 [Korea Development Institute (KDI)](https://www.kdi.re.kr)\
 
 ### Contact 
@@ -22,9 +22,6 @@ Research Fellow\
 minhokim at kdi.re.kr\
 263, Namsejong-ro, Sejong-si, 30149, Korea\
 +82-44-550-4144\
-
-Currently Visiting Research Scholar at Paul H. Chook Department of Information Systems and Statistics\
-Baruch College, City University of New York\
 
 ### Employment
 
@@ -57,6 +54,7 @@ Development and International Economics
 
 ### Working Papers  
 1. [The Plant-Level View of an Industrial Policy: The Korean Heavy Industry Drive of 1973](https://drive.google.com/file/d/1IPKVyvhZN_kg1UnugdSaRLURtatZX3kY/view) (with [Munseob Lee](https://sites.google.com/site/munseob) and [Yongseok Shin](https://sites.wustl.edu/yshin/)) [[Article in VoxEU]](https://cepr.org/voxeu/columns/plant-level-view-industrial-policy-korean-heavy-industry-drive-1973) [[Article in NBER Digest]](https://www.nber.org/digest/202111/south-koreas-industrial-policy-growth-inefficiency)
+1. Enhancing Effectiveness of Government Credit Programs for SMEs: A Machine Learning Approach (with [Youngdeok Hwang](https://ydhwang.github.io))
 1. [How Smart Is ‘Smart Factory’?: Drivers and Effects of Factory Smartization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934026) (with [Sunghoon Chung](https://sites.google.com/view/schung))
 
 
@@ -77,7 +75,7 @@ Development and International Economics
 
 1. Digital Technologies, Intangibles, and Firm Productivity, In *Shifting Paradigms: Growth, Finance, Jobs, and Inequality in the Digital Economy*, Zia Qureshi and Cheonsik Woo Eds, Brookings Institution Press, Jan. 2022. 
 
-### Other Writings
+### Commentary
 
 1. [인격적인 나이듦을 준비하자](https://news.kmib.co.kr/article/view.asp?arcid=0924232577), 국민일보, Feb. 22, 2022
 1. [공공부문 혁신을 위한 문샷 싱킹](https://news.kmib.co.kr/article/view.asp?arcid=0924227839), 국민일보, Jan. 18, 2022
