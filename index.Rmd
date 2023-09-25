@@ -83,9 +83,9 @@ Development and International Economics
 1. 한·중 교역 확대가 한국 제조업에 미친 영향: 총요소생산성을 중심으로(China’s  Impact on Productivity Growth in Korean Manufacturing), In [*Structural Changes of the Chinese Economy and New Opportunities for Korea(Vol.1)*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2868820), Kyungsoo Choi Eds, *KDI Research Monograph* 2015-09, 2015 (in Korean). 
 
 #### Program Evaluation 
-1. 예비타당성조사 수행을 위한 세부지침 의료부문 연구(Detailed Guidelines for Conducting Pre-feasibility Studies: Healthcare Sector Projects), KDI, 2022 (in Korean). 
-1. 예비타당성조사 수행을 위한 세부지침 일반부문 연구(Detailed Guidelines for Conducting Pre-feasibility Studies), KDI, 2021 (in Korean).
-1. 저소득 지역가입자 국민연금 보험료 지원 예비타당성조사 (Pre-feasibility Study for Subsidizing National Pension Premiums for Low-Income Regional Enrollees), KDI, 2021 (in Korean).
+1. [예비타당성조사 수행을 위한 세부지침 의료부문 연구(Detailed Guidelines for Conducting Pre-feasibility Studies: Healthcare Sector Projects)](https://www.kdi.re.kr/research/reportView?pub_no=17951), KDI, 2022 (in Korean). 
+1. [예비타당성조사 수행을 위한 세부지침 일반부문 연구(Detailed Guidelines for Conducting Pre-feasibility Studies)](https://www.kdi.re.kr/research/reportView?pub_no=17181), KDI, 2021 (in Korean).
+1. [저소득 지역가입자 국민연금 보험료 지원 예비타당성조사 (Pre-feasibility Study for Subsidizing National Pension Premiums for Low-Income Regional Enrollees)](https://www.kdi.re.kr/research/reportView?pub_no=17259), KDI, 2021 (in Korean).
 
 #### Policy Briefs
 1. AI를 활용한 지원정책 효과성 제고방안(Enhancing the Effectiveness of Support Policies through AI Utilization), KDI, 2021 (in Korean).
