@@ -41,9 +41,9 @@ Yonsei University, B.A. in Economics, Feb. 2005.\
 Development and International Economics 
 
 * Understanding firm dynamics and the role of industrial policy 
-* Studying the role of trade on productivity
-* Measuring intangible capitals such as organizational capital and technology and associated government innovation policy
-* Applying machine learning in policy targeting 
+* Studying the role of trade and FDI on productivity 
+* Understanding the role of intangible capitals such as organizational capital and technology and government innovation policy
+* Applying machine learning in policy targeting (Data-driven policy making) 
 
 ### Publications
 
@@ -55,21 +55,54 @@ Development and International Economics
 ### Working Papers  
 1. [The Plant-Level View of an Industrial Policy: The Korean Heavy Industry Drive of 1973](https://drive.google.com/file/d/1IPKVyvhZN_kg1UnugdSaRLURtatZX3kY/view) (with [Munseob Lee](https://sites.google.com/site/munseob) and [Yongseok Shin](https://sites.wustl.edu/yshin/)) [[Article in VoxEU]](https://cepr.org/voxeu/columns/plant-level-view-industrial-policy-korean-heavy-industry-drive-1973) [[Article in NBER Digest]](https://www.nber.org/digest/202111/south-koreas-industrial-policy-growth-inefficiency)
 1. Enhancing Effectiveness of Government Credit Programs for SMEs: A Machine Learning Approach (with [Youngdeok Hwang](https://ydhwang.github.io))
-1. [How Smart Is ‘Smart Factory’?: Drivers and Effects of Factory Smartization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934026) (with [Sunghoon Chung](https://sites.google.com/view/schung))
+1. [How Smart Is ‘Smart Factory’?: Drivers and Effects of Factory Smartization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934026) (with [Sunghoon Chung](https://sites.google.com/view/schung)), Revise and Resubmit, *Industrial and Corporate Change* 
 
 
-### Policy Papers 
-1. [중소기업 적합업종제도의 경제적 효과와 정책방향(The economic effects of the Reservation Policy for SMEs and policy implications)](https://www.kdi.re.kr/research/forumView?pub_no=17621), *KDI Policy Forum* No. 289(2022-04), 2022 (in Korean). [[Youtube]](https://youtu.be/qVxhJogB_uM)
-1. [중소기업 지원기준의 개선방안에 관한 연구: 중소기업 정의와 적합업종을 중심으로 (Designing the Criteria on the SME Support Policy: Focusing on the Definition of SME and Small-Scale Reservation Policy)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182251), *KDI Research Monograph*, 2022-01, 2022 (in Korean)
-1. [AI 기술, 지원정책의 효과를 높일 수 있을까? (Can Artificial Intelligence Improve the Effectiveness of Government Support Policies?)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181025), *KDI Policy Forum*, No. 288(2022-03), 2022 (in Korean).[[English Ver.]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181019) [[Youtube]](https://youtu.be/k-MRWo9slqM)
-1. [Smart  Factory: Economic Impacts and Policy Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491557) (with [Sunghoon Chung](https://sites.google.com/view/schung) and [Changkeun Lee](https://sites.google.com/site/cklecon/)), *KDI Research Monograph*, 2019-01, 2019 (in Korean)  
-1. [공장의 스마트화를 위한 스마트한 정책방안(Smart Policies for Smart Factories)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601470) (with [Sunghoon Chung](https://sites.google.com/view/schung) and [Changkeun Lee](https://sites.google.com/site/cklecon/)), *KDI FOCUS*, No. 97, 2020 (in Korean). [[English Ver.]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601473) [[Youtube]](https://youtu.be/rk-WLA2FQ5Q)
-1. 지식자본과 기업의 생산성(Knowledge Capital and Firm Productivity), In [*Job Creation Strategy in an Knowledge-based Economy*](https://ssrn.com/abstract=4043239), Kyungsoo Choi Eds, *KDI Research Monograph*, 2019-12, 2019 (in Korean)  
-1. [서비스산업 외국인투자기업의 국내 현황과 경제적 효과 (Foreign-invested Firms in the Korean Service Industry: Current Status and Economic Effects)](https://ssrn.com/abstract=3740446) (with [Sunghoon Chung](https://sites.google.com/view/schung)), *KDI Policy Study* 2019-16, 2019 (in Korean) 
+### Policy Papers
+
+#### Firm(Productivity) Dynamics 
+1. 지식자본과 기업의 생산성(Knowledge Capital and Firm Productivity), In [*Job Creation Strategy in an Knowledge-based Economy*](https://ssrn.com/abstract=4043239), Kyungsoo Choi Eds, *KDI Research Monograph*, 2019-12, 2019 (in Korean). 
 1. [제조업 신생기업의 성장동력 역할 감소와 시사점 (Diminishing Role of Young Manufacturing Plants as Drivers of Growth)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3239343), *KDI FOCUS* No. 92, 2018 (in Korean).  [[Youtube]](https://youtu.be/gnwH10kd7LM)
 1. [자원분배와 생산성: 한국 제조업의 역동성과 시사점(Productivity Growth in Korean Manufacturing Industries: The Role of Young Plants vs. Small Plants)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3230518), *KDI Policy Study* 2017-05, 2017 (in Korean).
+
+#### Industrial and SME Policy
+1. [중소기업 적합업종제도의 경제적 효과와 정책방향(The economic effects of the Reservation Policy for SMEs and policy implications)](https://www.kdi.re.kr/research/forumView?pub_no=17621), *KDI Policy Forum* No. 289(2022-04), 2022 (in Korean). [[Youtube]](https://youtu.be/qVxhJogB_uM)
+1. [중소기업 지원기준의 개선방안에 관한 연구: 중소기업 정의와 적합업종을 중심으로 (Designing the Criteria on the SME Support Policy: Focusing on the Definition of SME and Small-Scale Reservation Policy)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182251), *KDI Research Monograph*, 2022-01, 2022 (in Korean).
+1. [AI 기술, 지원정책의 효과를 높일 수 있을까? (Can Artificial Intelligence Improve the Effectiveness of Government Support Policies?)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181025), *KDI Policy Forum*, No. 288(2022-03), 2022 (in Korean).[[English Ver.]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181019) [[Youtube]](https://youtu.be/k-MRWo9slqM)
+1. [AI 기반 정부지원 통합체계 구축방안 (How to Build a Government System for Data-driven Decision Making)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4136957), *KDI Research Monograph*, 2020-07, 2020 (in Korean).
 1. 창업벤처 지원정책의 성과관리체계 개선방안 (A Guide to Effectiveness Evaluation Framework on Korean Entrepreneurship Policy), In [*Improving the Performance Management System of Budgetary Programs: Focusing on In-depth Evaluation*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3337256), Jaejoon Lee Eds, *KDI Research Monograph* 2017-08, 2017 (in Korean). 
+
+#### Technology Adoption and Management Practices 
+
+1. [Smart  Factory: Economic Impacts and Policy Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491557) (with [Sunghoon Chung](https://sites.google.com/view/schung) and [Changkeun Lee](https://sites.google.com/site/cklecon/)), *KDI Research Monograph*, 2019-01, 2019 (in Korean)  
+1. [공장의 스마트화를 위한 스마트한 정책방안(Smart Policies for Smart Factories)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601470) (with [Sunghoon Chung](https://sites.google.com/view/schung) and [Changkeun Lee](https://sites.google.com/site/cklecon/)), *KDI FOCUS*, No. 97, 2020 (in Korean). [[English Ver.]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601473) [[Youtube]](https://youtu.be/rk-WLA2FQ5Q)
+
+#### Trade and FDI 
+
+1. [서비스산업 외국인투자기업의 국내 현황과 경제적 효과(Foreign-invested Firms in the Korean Service Industry: Current Status and Economic Effects)](https://ssrn.com/abstract=3740446) (with [Sunghoon Chung](https://sites.google.com/view/schung)), *KDI Policy Study* 2019-16, 2019 (in Korean). 
 1. 한·중 교역 확대가 한국 제조업에 미친 영향: 총요소생산성을 중심으로(China’s  Impact on Productivity Growth in Korean Manufacturing), In [*Structural Changes of the Chinese Economy and New Opportunities for Korea(Vol.1)*](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2868820), Kyungsoo Choi Eds, *KDI Research Monograph* 2015-09, 2015 (in Korean). 
+
+#### Program Evaluation 
+1. 예비타당성조사 수행을 위한 세부지침 의료부문 연구(Detailed Guidelines for Conducting Pre-feasibility Studies: Healthcare Sector Projects), KDI, 2022 (in Korean). 
+1. 예비타당성조사 수행을 위한 세부지침 일반부문 연구(Detailed Guidelines for Conducting Pre-feasibility Studies), KDI, 2021 (in Korean).
+1. 저소득 지역가입자 국민연금 보험료 지원 예비타당성조사 (Pre-feasibility Study for Subsidizing National Pension Premiums for Low-Income Regional Enrollees), KDI, 2021 (in Korean).
+
+#### Policy Briefs
+1. AI를 활용한 지원정책 효과성 제고방안(Enhancing the Effectiveness of Support Policies through AI Utilization), KDI, 2021 (in Korean).
+1. 글로벌 공급망 리스크 대응방안(Strategies for Addressing Global Supply Chain Risks), KDI, 2021 (in Korean).
+1. 탄소중립의 공급망 리스크와 기회 활용(Leveraging Supply Chain Risks and Opportunities in Carbon Neutrality), KDI, 2021 (in Korean).
+1. 스마트 제조혁신 전략의 개선방안 (Policy Recommendations on Smart Manufacturing Innovation Strategy), KDI, 2019 (in Korean).
+
+#### Government-Commissioned Report
+1. 디지털 전환기의 노동생산성 제고 방안(Strategies for Improving Labor Productivity in the Digital Transformation Era), KDI, 2022 (in Korean).
+1. 경제환경변화에 따른 무역보험의 역할과 전략(The Role and Strategies of Korea Trade Insurance in Response to Changes in the Economic Environment), KDI, 2020 (in Korean).
+1. 분야별 종합 지출구조조정 및 관리지원 - 산업·중소기업·에너지 분야(Comprehensive Expenditure Restructuring and Management Support by Sector - Industry, SMEs, and Energy sectors), KDI, 2020 (in Korean).
+1. 타당성평가에서의 지역낙후도 분석 개선방안 연구(A Study on Improving the Measurement of Regional Underdevelopment in Feasibility Assessments), KDI, 2020
+1. 재도전 정책이슈 발굴·연구(Exploration and Research on Re-challenge Policy Issues), KDI, 2019 (in Korean).
+1. 개성공단의 경제적 효과에 대한 실증분석(Empirical Analysis of the Economic Impact of the Kaesong Industrial Complex), KDI, 2018 (in Korean).
+1. 종합통계등록부의 통계 생산용DB 구축대상 선정 (Finding New Statistics Based on the Comprehensive Statistics Registration Database), KDI, 2017 (in Korean).
+1. 지역산업정책 성과분석 및 추진전략 수립(Analysis of Regional Industrial Policy and Recommendation on Implementation Strategies), KDI, 2015 (in Korean).
+1. 국가경쟁력 보고서(National Competitiveness Report), KDI, 2014 and 2015 (in Korean). 
 
 ### Book Chapters 
 
@@ -87,12 +120,14 @@ Development and International Economics
 1. ['창업 시대' 절반이 식당·숙박업… 그중 절반은 2년도 못 버틴다](https://biz.chosun.com/site/data/html_dir/2017/08/13/2017081301853.html), 조선일보, Aug. 14. 2017
 1. [Innovative Charitable Fundraising](https://global.wustl.edu/people/minho-kim/), Op-Ed Essays from McDonnell Academy Scholars, 2009-2010
 
+
 ### Teaching
 
 #### At Washington University in St. Louis
 
 * Economics 335 - Money and Banking, Summer 2013
 * Economics 1011 - Introduction to Microeconomics, Summer 2011
+
 
 <!-- ### Professional Activities -->
 
