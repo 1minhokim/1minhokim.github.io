@@ -1,6 +1,11 @@
 ---
 title: "Minho Kim"
 fontsize: 15pt
+output:
+  html_document:
+    df_print: paged
+  pdf_document: default
+  word_document: default
 ---
 
 <style type="text/css">
@@ -27,7 +32,7 @@ minhokim at kdi.re.kr\
 
 [Korea Development Institute (KDI)](https://www.kdi.re.kr)
 
-- Fellow, Aug. 2019 - Present
+- Fellow, Jan. 2020 - Present
 - Director, Division of Public Investment Evaluation, [PIMAC](https://pimac.kdi.re.kr/main/main.jsp). Jul. 2020 - Jun. 2022 
 - Associate Fellow, Jul. 2014 - Dec. 2019
 
@@ -75,7 +80,7 @@ Development and International Economics
 #### Technology Adoption and Management Practices 
 
 1. [Smart  Factory: Economic Impacts and Policy Implications](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491557) (with [Sunghoon Chung](https://sites.google.com/view/schung) and [Changkeun Lee](https://sites.google.com/site/cklecon/)), *KDI Research Monograph*, 2019-01, 2019 (in Korean)  
-1. [공장의 스마트화를 위한 스마트한 정책방안(Smart Policies for Smart Factories)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601470) (with [Sunghoon Chung](https://sites.google.com/view/schung) and [Changkeun Lee](https://sites.google.com/site/cklecon/)), *KDI FOCUS*, No. 97, 2020 (in Korean). [[English Ver.]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601473) [[Youtube]](https://youtu.be/rk-WLA2FQ5Q)
+1. [공장의 스마트화를 위한 스마트한 정책방안(Smart Policies for Smart Factories)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601470) (with [Sunghoon Chung](https://sites.google.com/view/schung) and [Changkeun Lee](https://sites.google.com/site/cklecon/)), *KDI FOCUS*, No. 97, 2019 (in Korean). [[English Ver.]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3601473) [[Youtube]](https://youtu.be/rk-WLA2FQ5Q)
 
 #### Trade and FDI 
 
@@ -133,6 +138,7 @@ Development and International Economics
 
 ### Conference/Seminar Presentations (Recent) 
 
+* East Asian Economic Association International Conference (Seoul, Korea), 2023.
 * Society for the Advancement of Economic Theory (Virtual), 2021.
 * Singapore Management University (Singapore), 2019.
 * Society for the Advancement of Economic Theory (Taipei, Taiwan), 2018 
@@ -146,10 +152,14 @@ Development and International Economics
 
 ### Honors
 
+* Deputy Prime Minister's Commendation for Service Merit, Dec. 2021   
+* KDI President's Commendation for Service Merit, Korea Development Institute, Mar. 2021   
+* Excellence Award for “Contest for Best Practices in Vigorous Research and Administration", National Research Council for Economics, Humanities, and Social Sciences, Jul. 2021
+* KDI President's Commendation for Service Merit, Korea Development Institute, Mar. 2018   
 * McDonnell Academy Scholar, Washington University in St. Louis, 2008-2013 
 * Dissertation Fellowship, Washington University in St. Louis, 2013
 * Altwell Mincho Scholar, Korea, 2001-2005
-* High Honors (Magna cum laude), Yonsei University, Korea, 2005
+* High Honors (Magna cum laude), Yonsei University, Korea, Feb. 2005
 
 <!--
 ### Miscellaneous
