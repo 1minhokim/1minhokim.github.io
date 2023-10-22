@@ -52,6 +52,7 @@ Development and International Economics
 
 ### Publications
 
+1. [How Smart Is a ‘Smart Factory’?: An Organizational View](https://1minhokim.github.io/Smart_v4.0.pdf) (with [Sunghoon Chung](https://sites.google.com/view/schung)), Forthcoming in *Industrial and Corporate Change* 
 1. [International Trade and Directed Technical Change in the Developing Countries](https://doi.org/10.23895/kdijep.2019.41.3.77), *KDI Journal of Economic Policy*, 41(3), 2019. 
 1. [Misallocation and manufacturing TFP in Korea, 1982-2007](https://files.stlouisfed.org/research/publications/review/2017-04-12//misallocation-and-manufacturing-tfp-in-korea-1982-2007.pdf) (with Jiyoon Oh and [Yongseok Shin](https://sites.wustl.edu/yshin/)),” *Federal Reserve Bank of St. Louis Review*, Second Quarter 2017. 
 1. [Aggregate Productivity Growth in Korean Manufacturing: The Role of Young Plants](https://doi.org/10.23895/kdijep.2017.39.4.1), *KDI Journal of Economic Policy*, 39(4): 1–23, 2017. 
@@ -59,8 +60,7 @@ Development and International Economics
 
 ### Working Papers  
 1. [The Plant-Level View of an Industrial Policy: The Korean Heavy Industry Drive of 1973](https://drive.google.com/file/d/1IPKVyvhZN_kg1UnugdSaRLURtatZX3kY/view) (with [Munseob Lee](https://sites.google.com/site/munseob) and [Yongseok Shin](https://sites.wustl.edu/yshin/)) [[Article in VoxEU]](https://cepr.org/voxeu/columns/plant-level-view-industrial-policy-korean-heavy-industry-drive-1973) [[Article in NBER Digest]](https://www.nber.org/digest/202111/south-koreas-industrial-policy-growth-inefficiency)
-1. Enhancing Effectiveness of Government Credit Programs for SMEs: A Machine Learning Approach (with [Youngdeok Hwang](https://ydhwang.github.io))
-1. [How Smart Is ‘Smart Factory’?: Drivers and Effects of Factory Smartization](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3934026) (with [Sunghoon Chung](https://sites.google.com/view/schung)), Revise and Resubmit, *Industrial and Corporate Change* 
+1. [Enhancing Effectiveness of Government Credit Programs for SMEs: A Machine Learning Approach](https://1minhokim.github.io/AI_policy_2310.pdf) (with [Youngdeok Hwang](https://ydhwang.github.io))
 
 
 ### Policy Papers
