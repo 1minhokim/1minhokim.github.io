@@ -4,9 +4,11 @@ fontsize: 15pt
 output:
   html_document:
     df_print: paged
-  pdf_document: default
+  pdf_document: 
+    extra_dependencies: ["kotex"] 
   word_document: default
 ---
+
 
 <style type="text/css">
 
@@ -52,7 +54,7 @@ Development and International Economics
 
 ### Publications
 
-1. [How Smart Is a ‘Smart Factory’?: An Organizational View](https://1minhokim.github.io/Smart_v4.0.pdf) (with [Sunghoon Chung](https://sites.google.com/view/schung)), Forthcoming in *Industrial and Corporate Change* 
+1. [How Smart Is a ‘Smart Factory’?: An Organizational View](https://doi.org/10.1093/icc/dtad070) (with [Sunghoon Chung](https://sites.google.com/view/schung)), *Industrial and Corporate Change*, dtad070, 2023.
 1. [International Trade and Directed Technical Change in the Developing Countries](https://doi.org/10.23895/kdijep.2019.41.3.77), *KDI Journal of Economic Policy*, 41(3), 2019. 
 1. [Misallocation and manufacturing TFP in Korea, 1982-2007](https://files.stlouisfed.org/research/publications/review/2017-04-12//misallocation-and-manufacturing-tfp-in-korea-1982-2007.pdf) (with Jiyoon Oh and [Yongseok Shin](https://sites.wustl.edu/yshin/)),” *Federal Reserve Bank of St. Louis Review*, Second Quarter 2017. 
 1. [Aggregate Productivity Growth in Korean Manufacturing: The Role of Young Plants](https://doi.org/10.23895/kdijep.2017.39.4.1), *KDI Journal of Economic Policy*, 39(4): 1–23, 2017. 
@@ -71,6 +73,7 @@ Development and International Economics
 1. [자원분배와 생산성: 한국 제조업의 역동성과 시사점(Productivity Growth in Korean Manufacturing Industries: The Role of Young Plants vs. Small Plants)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3230518), *KDI Policy Study* 2017-05, 2017 (in Korean).
 
 #### Industrial and SME Policy
+1. 국가 챔피언 기업 육성정책: 산업 정책에서 승자 선정 전략의 효과와 시사점(National Champions and Industrial Policy: An Examination of the Effectiveness and Consequences of Picking Winners Strategy in Industrial Policy), forthcoming in *KDI Policy Study*, 2023 (in Korean). 
 1. [중소기업 적합업종제도의 경제적 효과와 정책방향(The economic effects of the Reservation Policy for SMEs and policy implications)](https://www.kdi.re.kr/research/forumView?pub_no=17621), *KDI Policy Forum* No. 289(2022-04), 2022 (in Korean). [[Youtube]](https://youtu.be/qVxhJogB_uM)
 1. [중소기업 지원기준의 개선방안에 관한 연구: 중소기업 정의와 적합업종을 중심으로 (Designing the Criteria on the SME Support Policy: Focusing on the Definition of SME and Small-Scale Reservation Policy)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4182251), *KDI Research Monograph*, 2022-01, 2022 (in Korean).
 1. [AI 기술, 지원정책의 효과를 높일 수 있을까? (Can Artificial Intelligence Improve the Effectiveness of Government Support Policies?)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181025), *KDI Policy Forum*, No. 288(2022-03), 2022 (in Korean).[[English Ver.]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4181019) [[Youtube]](https://youtu.be/k-MRWo9slqM)
@@ -99,6 +102,7 @@ Development and International Economics
 1. 스마트 제조혁신 전략의 개선방안 (Policy Recommendations on Smart Manufacturing Innovation Strategy), KDI, 2019 (in Korean).
 
 #### Government-Commissioned Report
+1. 중소기업 정부지원 개선방향(Improvement Measures for Government SME Support Policies), KDI, 2024 (in Korean).
 1. 디지털 전환기의 노동생산성 제고 방안(Strategies for Improving Labor Productivity in the Digital Transformation Era), KDI, 2022 (in Korean).
 1. 경제환경변화에 따른 무역보험의 역할과 전략(The Role and Strategies of Korea Trade Insurance in Response to Changes in the Economic Environment), KDI, 2020 (in Korean).
 1. 분야별 종합 지출구조조정 및 관리지원 - 산업·중소기업·에너지 분야(Comprehensive Expenditure Restructuring and Management Support by Sector - Industry, SMEs, and Energy sectors), KDI, 2020 (in Korean).
@@ -115,6 +119,7 @@ Development and International Economics
 
 ### Commentary
 
+1. [정부가 똑똑하게 일하라! 데이터 기반 정책 수립 전환 방안](https://1minhokim.github.io/데이터브리프V09_202401.pdf), NRC Data Brief, Vol. 9, 2024
 1. [인격적인 나이듦을 준비하자](https://news.kmib.co.kr/article/view.asp?arcid=0924232577), 국민일보, Feb. 22, 2022
 1. [공공부문 혁신을 위한 문샷 싱킹](https://news.kmib.co.kr/article/view.asp?arcid=0924227839), 국민일보, Jan. 18, 2022
 1. [플랫폼 방식 거버넌스로 혁신돼야](https://news.kmib.co.kr/article/view.asp?arcid=0924223546), 국민일보, Dec. 21, 2021
@@ -152,7 +157,7 @@ Development and International Economics
 
 ### Honors
 
-* Deputy Prime Minister's Commendation for Service Merit, Dec. 2021   
+* Deputy Prime Minister's Commendation for Service Merit, Dec. 2021 & Dec. 2023   
 * KDI President's Commendation for Service Merit, Korea Development Institute, Mar. 2021   
 * Excellence Award for “Contest for Best Practices in Vigorous Research and Administration", National Research Council for Economics, Humanities, and Social Sciences, Jul. 2021
 * KDI President's Commendation for Service Merit, Korea Development Institute, Mar. 2018   
